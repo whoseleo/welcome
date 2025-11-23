@@ -9,9 +9,7 @@
 - Passionate about turning ideas into real-world applications  
 
 ## Connect with me 🌐 
-[My Portfolio](https://leokdm.netlify.app/)
-[GitHub](https://github.com/whoseleo)
-[Instagram](instagram.com/leokdm_)  
+[My Portfolio](https://leokdm.netlify.app/) | [GitHub](https://github.com/whoseleo) | [Instagram](instagram.com/leokdm_)  
 
 ## My tech stack 💻 
 
