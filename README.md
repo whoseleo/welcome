@@ -24,6 +24,9 @@ Google Workspace, SharePoint, Zimbra, Roundcube
 **Design**
 Canva, Figma
 
+**Message Embeds**
+Discohook
+
 ## What I'm focusing on 🧑‍💻
 - Improving my problem-solving & algorithm skills  
 - Building full-stack projects from scratch  
