@@ -1,4 +1,3 @@
-# whoseleo
 
 # Hey, I'm Léo 👋
 
